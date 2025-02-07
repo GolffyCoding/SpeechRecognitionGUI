@@ -41,4 +41,5 @@ pip install torch torchaudio numpy matplotlib librosa tkinter sounddevice
 - Implement real-time audio analysis using microphone input
 - Enhance UI/UX with additional visualization options
 
-![Screenshot 2024-04-07 171638](https://github.com/user-attachments/assets/cce8e68d-9a36-4b53-87a8-d1ee08067909)
+![Screenshot 2025-02-07 231443](https://github.com/user-attachments/assets/b92c6456-5fc5-4881-a285-ce5ad8d3780c)
+
